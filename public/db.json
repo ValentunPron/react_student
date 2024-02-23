@@ -1,0 +1,75 @@
+[
+	{
+		"id": 1,
+		"title": "Аскорбінка-КВ таблетки",
+		"price": 199,
+		"description": "1 таблетка містить кислоти аскорбінової (вітаміну С) 25 мг; допоміжні речовини: цукор, кислота стеаринова, крохмаль картопляний, глюкози моногідрат, кислота лимонна безводна, ароматизатор харчовий порошкоподібний «апельсин»;",
+		"category": "таблетки",
+		"image": "https://root.tblcdn.com/img/goods/d80dc1ea-8443-4f68-b1e2-27c031e5d1cf/1/img_0.jpg?v=AAAAAAiCVk",
+		"rating": { 
+			"rate": 4.1,
+			"count": 102
+		}
+	},
+	{
+		"id": 2,
+		"title": "Олідетрим 2000 капсули м'як.",
+		"price": 124,
+		"description": "Найважливішою функцією вітаміну D3 є регулювання метаболізму кальцію та фосфатів, що сприяє правильній мінералізації кісток. Він необхідний для функціонування паращитовидних залоз, кишечнику, нирок і кісткової системи.",
+		"category": "капсули",
+		"image": "https://root.tblcdn.com/img/goods/2d079538-0fc3-447b-a0e5-ae0151e14420/1/img_0.jpg?v=AAAAAAoIAco",
+		"rating": { 
+			"rate": 4.3,
+			"count": 10
+		}
+	},
+	{
+		"id": 3,
+		"title": "Діазепам розчин для ін'єкцій",
+		"price": 120,
+		"description": "1 мл розчину містить діазепаму 10 мг; допоміжні речовини: пропіленгліколь, етиловий спирт, вода для ін'єкцій.",
+		"category": "ін'єкції",
+		"image": "https://content.apteka-ds.com.ua/images/crawler/4820023311039.jpg",
+		"rating": { 
+			"rate": 4.7,
+			"count": 75
+		}
+	},
+	
+	{
+		"id": 4,
+		"title": "Лоратадин таблетки",
+		"price": 65,
+		"description": "1 таблетка містить лоратадину 10 мг; допоміжні речовини: целюлоза мікрокристалічна, лактоза, крохмаль картопляний, магнію стеарат.",
+		"category": "таблетки",
+		"image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMSEhUSERIVFhAVFRUVFRcVFRUVFRUYFRcXGBUYFRUYHiggHRonHRUWITEhJSorLi4uFx81ODMtNygtLisBCgoKDg0OGxAQGyslHyAyLi0uLS0tLS0tLSstLy0tLy0tLS0vLS0tLi0tLS0tLS0tLS0tLS0uLS0tLS0tLS0tLf/AABEIAOEA4QMBIgACEQEDEQH/xAAbAAEAAQUBAAAAAAAAAAAAAAAABQIDBAYHAf/EAE8QAAEDAgMCCQYKBwUHBQAAAAEAAhEDBBIhMQUGExQiQVFhcYGRBzJSobHRFSNCVIKSk8HS8BYkM1NicrJDRHOi0xdVs8LD4fElNDZjo//EABkBAQEAAwEAAAAAAAAAAAAAAAABAgMEBf/EADURAAIBAgQDBgUDAwUAAAAAAAABEQIhAxIxUQRBYRQicYGR8BOhscHRNFLxBXLhIyQyM0L/2gAMAwEAAhEDEQA/AO4oiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIijKjATnJ+k4ewoCTRRItm9B+s/3r0Wreg/Wf70Jf2yVRRnEm+ifrP8AenE2eifrP96DvbfMk0UbxNnon6z/AHpxJnon6z/eg723zJJFG8SZ6J8Xe9DZM9D1u96XHe29+hJIoziDPQHr969Fkz0B60He29+hJIow2FM60x4FefB9P92PX70He29+hKIowWbPQHrXvE2egPX70F9vfoSSKOFs30fb71TxRnoD1oL7EmijTaM9BvgqOLMP9m2ZHyelC39/wSq8lRZtGR+zZrHmrziNOf2VP6o6EuS+3v0JZFECyp/uqc5fIHOhsqWXxVOT/AEuL+/4JdeEwtf2q5tChVqtY1mBuKQ2Dl2KMffte57WtALXRMCfHu9a1Y+MsHDqrq5KTOih1ODb6dwx2TXtJ6iCrq0c3DpHKMSOdbwufguOp4rNlTWWNes/gzxcJ4cS9QiIu01BR5Ugo92qAL1wyPYV4F6qVHANjVK1etSo8PUbwj2sxY3mMRAmJz1XQv8AZxW/3lV+o7/VWi7iUsV/bD/7MX1AXH2Lpl/eO+GbekHOwcBUJaHHCSW1CCW6TyQubDSi54/C4dFWHmrU3S1fONn1NB3j2VcW10y1p3FStUe1hbBcwkvLmhsYj6Os862yx8ntcsmtfPFQjMUw4tb9Iuz8Asm8Dfh2ji14ucP82Gr92JQXlZvKzLmkA97KYpB7MJLRjxOxEEfKEM7JHSq0qZZnVh4eGq66k2k4SlkRvZsO7sSC6vUfSdk2o17xJAnC5s8l3PqZ8VtFt5P6z2NeNo1Bia10cG7KRP73rUnv5L9kl1YRVwW7j1VC5gd/U4LN2kym61tBVqOpsx0CXtcGQW03OaC48xcAD2rLIpfkbFw2Gq6plqE1drWec9OZzje7Y1zYPYDc1KlOoDheC9ubYxBzcRg5jnzUnurupcXlDhzePpAuc1ohz8QbkXTjHysQ7lf8pu2Kdy+hbWzm1Xh5ksILcT4axgcMidZjTJby7Z1Slb0aFq5gNJ1EOLiRiZTcHVIgHN0EfSKipWZ7GFHD0PGriXStm9Y8Tle09l16N6yzdcvON9NramJ4kVIGLBi5iSIn5K2z/Z3X/wB5P+zd/qq15XLAgULpkhzHYCRIInl0zI0gh3e4LM8ktw99Cqaj3PIqjNzi4jkNykoqVmystGDQsZ4VSe6u9DWN8N3K9jSZUN6+pjfgiHsjkudM4zPmq9urupcXlDhzevpAuc1oh75Dci6cY58QjqWr7UrVq1d1LG981ntYxz3OaHF5a2ATA1hdods2rRtqNC1LQaTqIcXEtxMY4OqxAPKdBH0ipSlU3axhg4dGJiVNJ5Vyl63/AAck3lt7izruoOuKjoDXNdie3EHDXDiMZgjXmUvuhu7WvqT6nHalPBUwRD3zyWumcQ9L1KX8r+zpbRuQNCab8uYy5k9QIf8AWV7cKaGya1cmMXDVWnQ8hgYIP8zCmVZ4JTgpcS6KphKdX06lm43ArsY5/wAJVOS1zowOE4QTE8LloordLd6ve27q3H6lOHuZhh75hrXTOMel0LcN1a737JD6j3PeaVeXPcXOMPqAS45nILB8kw/UXx++qf0MWWVNrqblg4brohOGm9X06msbnbv3V9TfVN5UpMa7A0/GPxmJd8sQBI9fQva2w7hu0GWHH6kvZi4T4wRyHOjBj/gjXnXR9j29OzpW1oDyy0jL5Ra0vqv7MR/zBatef/IaP+G7/g1FMiSU9CPh6aKKVeZSd3zd+Zq2+GzrixfTYb2pU4QE61GYYIGmMzqpTefdi5srd1f4QqPDXNGH4xvnODdeEPsW6bzbJsK72G8LGva0hmKtwRiZMDEJzWJ5Uj/6e/8AxKX9YR4aSbLXw6pWJV0td2scu2Rd1qtQ031qjmGnWkOqPLT8W7UEroO5jXVnVKr2Frapa4DE0zDYdBafSnuXPN1KeK5A6WVP6Cuq7oMAptAy107F5/EYrVeHhQmq3DnZNHX/AEu+BXVzT+xJts6WTmgEGCDiJBB0IzWyLVbe5oUgKLawe5pLYxB78WLMODdMzpAhbUvSw8LDw1FFKXgkvobnW6tWERFsIFgP1Pas9YNTU9pQHgXoVIVTFSrU4/5Pt4qNk6vw7XHEGFpY0Ow4cYdOYInEPBWqG9rTtTj1Vj+CAc1rW4S8N4MsbqQOeTnzlQlpWYx9YFwaHNqNBziSchkD0Kuz4sMIqFrsuUfjBy+EOeUcjgz24h4+dicS6HENxEQp/wAW8TxMF1VYdFKqpUS77p26vUk96d6G1rynd2uNjqbGAYwAcTXPJyBILSHRr0rbrTyjWdVjTc0nNqN5UYW1Wgj5THajvAWgMNuWSXUw9wM/tYaSaDtMzIisJBznoIV4m3aHljm4jTeHCX5k0gG4J6Xh0z0tWvttSl5KvT37R0Yeemp1fEpvrf6KfAkt+98+OAUaTHMoNdiOOA57hIEgEwBnlOvYszene23uLBttTD+FbwXnNAb8W2HZyoF9O1LnDEBJfDi6oZJq1gzFJPJw8ASYmM9ZUTchuJ2EBokwA4kDsccyOsrZhcQ8WbNW5r/Jox68TDzVOql5rW2v4QSW599QoXTK1xiwU8TgGtxS+IblI0me0BT2+G/T61VnEqtSnSazlfILnEmZHQAG+JWkwqo7FvTcQc1PEVU0ZKbLXqdDv98rW52ebeu6pxg02gnASDUZBa7EOlzQT2lYnk83rtrOjUZXLw51TEMLC4RhaNR1grRixUESrmcybFxlWdV2lKDY93dpW1PaDriu5wotfUqMhpcS4k4JA0gOLu1oUtvhv2+pVbxGs9lJrOUQMJc8kzII0ADfErRsCYFE2lBiuJqVDoVpc9TpF9vhaXOz+AuKjuMGm0E8G8jhWEFpJAjNzQT/ADFbpt6taWtsG3DGi1ltPAKZcznLW4GjTkrgeEK7VunvEPqPc3WHOcR2wTqslW+Z0U8e1MpNwl/O53bdq/tLiiW2gHF2EsLRTLGjFynDCQMjiPitR3Q3ntLNlejWqcG7jNYtaKb3AN5LRGFpHyYjqXNqNxUp5U6j2g5nC9zQT3FWXSczMkySefvKZ3aCvjn3Wldfc6P+mdB+1BXfUItKdN1Om7A8yXNlzsIGISctNGhWK+8lqdsU7vhf1dtMgvwVPO4J7Yw4cWrhzLn5VMLHO/uanxVb1jWfM3Tyk7at7urQdb1MbWsc1xwvbEuB+UB6lPb/AO9Vnc2b6VCuH1C9hDcNQSA6Tm5oGi5dCpKmd36k7TV33C72pO7nH9aH8lT+krqm6PmCOgx4LlO5xi5H+HU/pXUtzs6QnQh3uXBxP6jA/uf2PZ/pf6WvxIralpcG5pngarmY6bnHBSDG8uXOLnh5mBMNIjqXTQue7wsYKjJzLX0o+LxETUaBk6oADpnHNPUuhDRewhRqz1ERU2BYVXU9qzVhV/OKAoC9C8C9VBZNlS/ds+o33LziFH9yz6jfcrZ2lT4cW8nhSx1SMJw4WloPK0nlDIdKodtakKvBScWIMLsJwB7m4msL9A4tgx1jnIBhjmp6F07Mofuaf2bPcqTsm3OtCl9nT9yyy8TEieic1a4y3GGZkkYpDSWgdb4geKkFcGOdi2x1tqH2TPwqn4CtfmtD7Jn4VIIkFyrYjju/afNaH2VP3Kk7u2nzWj9mz3KTRIRMq2RE/ozZ/NKP2bfcqf0XsvmlL6gUwiQtiZKdl6IhjurY/NaX1QqXbpWJ/ulP1+9Ta8SEMlOy9EQZ3OsPmtP/ADe9U/oXYfNWeL/xKeRIRPhUftXojXjuRs8/3Vv1qn4lSdxNnn+6j7Sr+NbGiQtifBw/2r0X4NZ/QDZ3zX/9a341SfJ9s/5ufta341tC9TKtifAwv2r0Rqp8nmz/ANw77ar+JUnydbP/AHT/ALWp+JbYiZKdi/Bw/wBq9DR9q7q2dlSfcUabxUGFgmo5w+Ne1hyJ/iWbuWfim8/nZdPUpLe4/qlTNozp+dp+0Z6+jrhRe5Z+JGccl2fR1rzeMp/3OBG514FKpwq0kSFeoWsEUgfNzmrTEF2vB5uB589VtLNB2LULtxEND6Tcmkcl1V/nSYLgTHQT2rb2aDsXpI5qSpERUyCwq/nFZqwLo8o/nmQFIVUq0CqpVBE3x/XrXro3Q/4JWvX7yLG9d/aNvi4dOJtzSweoN7ls9zs4vr0q/CEcEHtDcIIIqYccnX5IjoVm52G19RxxkUX1KdWpTwjlvpYcJDpyBwMkRnhGkmcWmzTXTU1Ulzn5qJ8jN2jYcKZGEHBUZLmB/njknPmBzg6rB+CMPnVGS5zjm054uEGHNxJEVQNdWjpyydpbPNUgh+EhpEhsuEkGWmciIPiqXbNJDeUJBdMAxhfUZUIaJygsaB0ZqmVSmqYMOpslpFRhfTza5gBBljqpcGgDFEGWmImQenK5ebCL5wuawEyC0ZiX039Ecng3BvU/m57zNnv1Lm4i5jiBMA8IKtQT2ggdAKzKFAh9R5PnERmchhaCI01aT3qQTInaC7bMwsa2GiGgQwQ0QIho5h0K6qJSVTaVIqZSUBVKKmUlAVSkqmUlAVSiplJVBXKKiUlAVJKplJQERviAbSpM60zlrlVYR3SM+pRu5jfimjqd6/8AypDe0/qlXX5Gmv7Rvq6eqVH7qAcEJyBa6V5fGfqcDxZ0YX/VX5F+5e0Pcx0joZic6WyYIDXGO8dS3Fmg7FpVwx2MfEvLIHKqVuDYIJyLAYJ0znNbozQdgXpHJRzK0RFTMKPujyz3exSChdo18NTqiT4D89yjqVN2Ctrteo/cPevQVhNuM3doPdAHtaV4LuC7oBB68407/atbx6Epem9+v0ht7JSRJuxnykrH4dU8Z0jpPqBW1tLX3yInJmJKw3XcZ93jp68u9VMucyOca9S1rEpbST1v7/GtnazKZMr3EsR1yB+eqVRSuidRzuHgSsnXSnHP19+IM7EkrENwBz/nnTjAVlbkkysSYlicaHT+c/cvH3IAJ6AT2pK0kTzMzEmJYnGBMKoVgiaenL6lMnEkrFdXAE/nJVOrAalG1SpdkOiMgFJVnhV5wgVEl6UlWhVBn89f3o2ok3BdlJVBevDUj1DxMKiSP3pztawk+a05dTgfuWBul+zbOfJOXSsreZ/xD+tjx4Q7/lWHuifi25xyCZ6F5fGfqsDxZ04L/wBKssXJc17MqNEYW+e/DU1OjKbic9YM6rfmaDsC59tG6qNrDBjcC0TU4GnTnlOy4Z4kAcwjSMzMroNPQdgXpI48PVlaIipsC1feK4LXuA0cADz82Ud5C2haTvZUIuMuYA/9vUteLSqqWmasat0U5kW7arLgHGIbDuguaTA7Mnnw77YqzUEjWXeADWg9kk96hqleZP51M+olXKt4ZBnMNd9y1U4OuZynEKOvmtIWi03bOLtShRZrnPvq/FsnHXfMObziBoNeUenqWMLvCXY8oLXAGRObZbP0hn1qNp3mFjmAw05kZZnpPWrd1fF5BeZdz5AZAjo7FhiYVVayNLLL6/Xe/wBuufaklmnvW8Nvla/Pn0nLuuIicQkOMdDYOQ8BC9t7rCwEnUS4k85zJ9ZULZX5YcWRLfSzBgRn6z3r113jdjgCIIA0HPp3K/DejUtK1Uw5+q1jV2mZmGXE0/8AJOJenT7+fkSd1fktbDYI7i4TAyjU5nxV2lVccWEjCIeTI0eJaI6yHGegjriK+EAXudUbJIyLcsLuYx+dVh0Log6mCAD2ZR7FqWHWrYfdiNeu2spTVKnW8yZ1cRRM1OZ26WvtNr+JsFS4iqWE4gMzHVGEDqkk9ZHcrlavhJaTyu3x749igTc5z/AfUZVYuGhuYmtJl5MkjoA5s/YJWSwq6KlUm3MT4rneYtMvXbkh2qmpNaa76bW1e3LUkKN5JMmA1zXT/A7kl3gZhZL6+E8ppIOeDnLc9QdDzkKCurvhOUYa45GJHRPP/CFdobQIBMkPzE5ERzjPPULVXhYmVtJd5O2uvqvFxdWdpM6OJozZZ00e/vbxc7STb0ucGNzD4PcIgd5cD2ArKFznBMDISM4zgwtf4wKfIBDmiTjaCHZHRp1Az8QqqNwMLi+TV1YR5rcoIies5rNUO9VEpVQrXeszfTVpReXPJDtCtTVqp8NNLa6ExxvlPaIdGYHpTl7R60q37hBjSYBB5RJDRl0SVB0rrDFQRiBMdADRkP8AKFXWvS4Au84PB/ze5Z04bvmumtZc2dub0XnynUwfEqLOHOnSDY6VXCGgnmmemRkT1fnmVmpfhpYcYIdllzTEezVQxuS/LFDBlGcu7+ZvZ0K3VqhxI6JPfo2OoRPaVKcHEoVPe0hReLee3N87xOmdXF0uYp8+ZsDbt0vHPIP8oLGxPfIHYegrwXoLi1kklxh3U0w715eJUJb3xxOJcTwmZ+jkPUR4KmyucLsU54cfNAOIk5d6weDi10ziPvKYvzjwhc45qzT1mri6E4p0evhP3VzZuMnTnJgTp1Se1Wri7IDgdWFpPYCD71CG7J5TsmiSG6lxGhd7lVcVQyHte18sgjUea6Qe/wBpW3EqxaKlDltO3WJcfaXpZ7hYtFVLtCUX6Pp+DO20+WVWz5lOoXDnlwynun1Juqfi25TyDl05aKMddTQqAxi4OoDrmQ0gkz2etXvJ3dmrQp1HQ2cYLdcOEkQT3LlxcOv4mDU1EVPnu7Pz16TB2cPiU10Vw9Yfy08iV4SiwtdiqNMQIbm4SYmvUbiM83LHVktwpeaOwexatxG3a9zySXOcXGHEAyZgtpwD9KVtFu+WNPS0H1L01XS3CaldTUqakrouoiLMoURtnYlK4ze0zES1zmn1FS68IQxqpVSho0Gt5PGHS7u29j6R/qplY58nR5r+67xQP/TXRcK8wpCNfZ8L9q9DnR8n9Xmv63fSon2AK07cK45r/wCtbtPseF0rAvMKQTs2F+1HMRuNeiYvqR7bQ/dWVJ3L2gNLu3PbbPHsqrqGBMCkE7LhbHL/ANEdoD+2tT9Cq37yrR3T2iNDaH6VYafQK6rwa84NII+EwtjlB3a2nzstDkRlXqjXtpKp2wdo89Cgey4P30wuq8EE4IJCJ2PC9tnJamxdofNAeyuz7wFZds6/E/qFQz0VqH3vC6/wIXnAhR0pqCdiw+vqcd4tfDXZ9xz6Ptzr2VV45l0NbC57m0z7HrsfABecAFYJ2HD3Zxl7641srsdMUXOGkfJnNWnbReNbW8GYP/tK/NH8PUF2vi4XnFwplRHwVG7+X4OKDbIbrQuh22tf8KfDdM5xVac/OoVh4y1dr4sF5xYI6ZHYqd38vwcTO3qDQJqNBBnlBw5o5wqRvJa6cYpebGdQBdtNoFS6xadWjwCZTHsK5VHGnbx2zhlc0ftG+9XPhaichWpkTPnt59V1t+xqR1psPaxp+5WX7t2x1t6J7aTD9ysEfBN/+vfqcupX7CCBUaZadHNOcR0rK3EuBxJkuBh1QEyD8s6npzW+1dzbJ3nWdse2hSP/ACq/a7sWtMYWW9FrZmG0mASeeANVzcXw3x8PJMHbwdHZ5m5q1tdte4Bjg4yBkZ8TzLf7ZsMaDqGtHgFbo2jW6ADsACylhwnBU8OnDls6MXFdYREXaagiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiID/2Q==",
+		"rating": { 
+			"rate": 4.6,
+			"count": 200
+		}
+	},
+	{
+		"id": 5,
+		"title": "Амоксицилін капсули",
+		"price": 90,
+		"description": "1 капсула містить амоксициліну 500 мг; допоміжні речовини: карбоксиметилкрохмаль натрію, тальк, магнію стеарат.",
+		"category": "капсули",
+		"image": "https://root.tblcdn.com/img/goods/b31af9f3-c239-4f7e-8dba-c29d639c9996/1/img_0.jpg?v=AAAAAAhZJPM",
+		"rating": { 
+			"rate": 4.4,
+			"count": 180
+		}
+	},
+	{
+		"id": 6,
+		"title": "Ацетилцистеїн розчин для інгаляцій",
+		"price": 150,
+		"description": "1 флакон розчину містить ацетилцистеїну 200 мг/мл; допоміжні речовини: вода для ін'єкцій, натрій гідроксид, сірчана кислота.",
+		"category": "інгаляції",
+		"image": "https://root.tblcdn.com/img/goods/6cea7884-3642-4e39-9fdb-a4c5935a8133/1/img_0.jpg?v=AAAAAAhZPCs",
+		"rating": { 
+			"rate": 4.8,
+			"count": 120
+		}
+	}
+]
